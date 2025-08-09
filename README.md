@@ -3,6 +3,7 @@ ATM Management Web App
 The ATM Management Web App is a simple, beginner-friendly web-based system that allows users to perform basic banking operations such as logging in, checking their balance, depositing funds, and withdrawing money. It also includes a basic admin panel to manage user accounts and monitor transactions.
 
 This project is designed as an educational tool to demonstrate core web development concepts through a real-life banking scenario.
+
 🚀 Features
 
     User Login – Users can log in with a username and password.
